@@ -3,7 +3,7 @@
 
 72200387 - Wino Andika Batara
 
-1. Upload Import ke XAMPP yang bernama "laravela.sql"
+1. Import ke XAMPP Database yang bernama "laravela.sql" (Untuk Databasenya dapat dilihat diantara composer.lock dan package.json)
 2. Melakukan Aktivasi menggunakan "php artisan serve"
 3. Kemudian Melakukan Koneksi ke login.blade.php di web http://127.0.0.1:8000/login
 4. Mengisi Password dan Nomor Handphone :
